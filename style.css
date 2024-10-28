@@ -1,0 +1,84 @@
+
+
+body {
+  background-color:#0353a4;
+  font-family: "Bebas Neue", sans-serif;
+  font-size: 20px;
+  line-height: 30 px;
+  text-align: center;
+  align-content: center;
+
+}
+
+h1 {
+  color:#fcc015;
+  font-size: serif;
+  font-size: 50px;
+  line-height: 15 px;
+}
+
+h2 {
+  color:#fcc015;
+  font-size: serif;
+  font-size: 30px;
+  line-height: 15 px;
+}
+
+img {
+  border-radius: 50%;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: #D3EE98;
+}
+
+a:hover {
+  color: blue;
+}
+
+p{
+  font-family: "Manrope", sans-serif;
+}
+
+.lewagon {
+  font-family: "Manrope", sans-serif;
+  color: #fcc015;
+}
+
+.container {
+  width: 700px;
+  border-radius: 35px;
+  margin: 0 auto;
+}
+
+.card {
+  background: rgb(1,0,8);
+  background: linear-gradient(0deg, rgba(1,0,8,1) 0%, rgba(28,151,244,0) 75%);
+  border-radius: 25px;
+  padding: 20px;
+  margin-bottom: 30px;
+
+
+}
+
+.paragraphe {
+  background: rgb(34,193,195);
+  background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(46,162,249,0.17979691876750703) 70%);
+  border-radius: 25px;
+  padding: 20px;
+  margin-bottom: 30px;
+  color: #fcc015
+}
+
+#profile-picture {
+  width: 400px;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+  list-style: none;
+  padding-left: 0px;
+  }
